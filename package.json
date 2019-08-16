@@ -1,6 +1,6 @@
 {
   "name": "electorneum-crypto",
-  "version": "1.0.0",
+  "version": "0.1.0.0",
   "description": "Node C++ Addon for Electroneum Cryptographic Functions",
   "main": "index.js",
   "scripts": {
@@ -10,16 +10,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/turtlecoin/turtlecoin-crypto.git"
+    "url": "git+https://github.com/r00t-us3r/electroneum-crypto.git"
   },
   "bugs": {
-    "url": "https://github.com/turtlecoin/turtlecoin-crypto/issues"
+    "url": "https://github.com/r00t-us3r/electroneum-crypto/issues"
   },
   "engines": {
     "node": ">=6"
   },
   "engineStrict": true,
-  "homepage": "https://github.com/turtlecoin/turtlecoin-crypto#readme",
+  "homepage": "https://github.com/r00t-us3r/electroneum-crypto#readme",
   "author": "The TurtleCoin Developers",
   "license": "GPL-3.0",
   "dependencies": {
