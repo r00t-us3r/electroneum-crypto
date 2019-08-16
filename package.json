@@ -1,5 +1,5 @@
 {
-  "name": "electorneum-crypto",
+  "name": "electroneum-crypto",
   "version": "0.0.1",
   "description": "Node C++ Addon for Electroneum Cryptographic Functions",
   "main": "index.js",
