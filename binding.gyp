@@ -1,7 +1,7 @@
 {
   "targets": [
     {
-      "target_name": "turtlecoin-crypto",
+      "target_name": "electroneum-crypto",
       "defines": [
         "NDEBUG",
         "NO_CRYPTO_EXPORTS",
@@ -45,8 +45,8 @@
         "external/argon2/lib/impl-select.c",
         "external/argon2/lib/thread.c",
         "external/argon2/lib/blake2/blake2.c",
-        "src/turtlecoin-crypto.cpp",
-        "src/turtlecoin-crypto-node.cpp"
+        "src/electroneum-crypto.cpp",
+        "src/electroneum-crypto-node.cpp"
       ],
       "cflags!": [
         "-std=c11",

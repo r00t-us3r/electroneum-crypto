@@ -1,7 +1,7 @@
 {
-  "name": "turtlecoin-crypto",
-  "version": "3.0.5",
-  "description": "Node C++ Addon for TurtleCoin Cryptographic Functions",
+  "name": "electorneum-crypto",
+  "version": "1.0.0",
+  "description": "Node C++ Addon for Electroneum Cryptographic Functions",
   "main": "index.js",
   "scripts": {
     "build": "node-gyp build",

@@ -5,7 +5,7 @@
 #include <iostream>
 #include <nan.h>
 #include <stdio.h>
-#include <turtlecoin-crypto.h>
+#include <electroneum-crypto.h>
 #include <v8.h>
 
 using BinaryArray = std::vector<uint8_t>;
